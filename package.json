@@ -1,0 +1,12 @@
+{
+  "name": "mc-auto-host-download-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Node.js host for the MC-AUTO-HOST download website",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
